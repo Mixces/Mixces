@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mixces
-- 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me- Discord: mixces star#0123
 
