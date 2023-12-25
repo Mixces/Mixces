@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mixces
+- 👋 Hi, I’m @Mixces, a university student with a passion for programming and cybersecurity!
 - 🌱 Java developer
 - 🦨 Old Animations Mod developer for Cheatbreaker and Polyfrost
 - 📫 Discord: mixces
