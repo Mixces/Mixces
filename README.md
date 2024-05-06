@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Mixces, a university student with a passion for programming and cybersecurity!
+- 👋 Hi, I’m Mixces, a university student with a passion for programming and cybersecurity!
 - 🌱 Java developer
 - 🦨 Check out OverflowAnimations, a Minecraft mod by Polyfrost!
+- :accessibility: Add me on discord: mixcesaltstar
 
 <!---
 Mixces/Mixces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
